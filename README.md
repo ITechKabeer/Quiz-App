@@ -60,6 +60,7 @@ Each MCQ object:
 
 ### 📁 Folder Structure
 
+```css
 project/
 │── index.html
 │── style.css
@@ -77,7 +78,7 @@ project/
 └── mixed-quiz/
     ├── mixed-quiz.html
     └── app.js
-
+```
 ---
 
 ### 💡 How It Works
