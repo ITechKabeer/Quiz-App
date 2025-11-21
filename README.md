@@ -117,7 +117,7 @@ project/
 
 ### 📸 Preview
 
-*(Add screenshots or GIFs for each quiz category)*
+*![App Preview](demo.png)*
 
 ---
 
