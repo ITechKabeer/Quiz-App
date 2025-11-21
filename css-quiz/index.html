@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS QUIZ</title>
+    <link rel="shortcut icon" href="favicon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container1">
+        <h1 class="heading"> 🎨 CSS QUIZ</h1>
+        <div class="question-div">
+            <h3 class="question"></h3>
+        </div>
+        <div class="option-class">
+            <p class="option option-a" id="optionA" onclick="userAnswer('a')"></p>
+            <p class="option option-b" id="optionB" onclick="userAnswer('b')"></p>
+            <p class="option option-c" id="optionC" onclick="userAnswer('c')"></p>
+            <p class="option option-d" id="optionD" onclick="userAnswer('d')"></p>
+        </div>
+        <div class="quiz-buttons">
+            <button class="pre-btn" onclick="preBtn()">Previous</button>
+            <button class="next-btn" onclick="nextBtn()">Next</button>
+        </div>
+    </div>
+    <div class="result-container">
+        <h2 class="heading">📝 Quiz Results 🏆</h2>
+        <p class="final-score"></p>
+        <h4 class = "score-line"></h4>
+        <button onclick="restartQuiz()" class="restart-btn">
+            Restart Quiz
+        </button>
+        <footer>Made By Kabeer Hussain ❤️ || Mern Stack Learner</footer>
+    </div>
+    <script src="app.js"></script>
+    <script src="../app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</body>
+</html>
