@@ -1,5 +1,6 @@
 # 🧠 Interactive Quiz Application (JavaScript Day 8)
-**Live Demo:** [Quiz App]()
+**Live Demo:** [Quiz App]( https://quiz-app-by-kabeer-hussain.vercel.app/
+)
 
 A fully dynamic and responsive **Quiz Application** built using **HTML, CSS & JavaScript**.  
 Includes four quiz categories: HTML, CSS, JavaScript, and Mixed. Each category has its own questions and JS logic, while all pages share a single **style.css** and **main.js** for common functions. Personalized username display, smooth UI, and real-time scoring make this project interactive and professional.
