@@ -125,11 +125,11 @@ project/
 
 👨‍💻 **Developer:** Kabeer Hussain  
 📘 **Series:** JavaScript — 30 Days, 30 Projects  
-📆 **Day:** 7 — Interactive Quiz App  
+📆 **Day:** 8 — Interactive Quiz App  
 📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-Made with ❤️ by Kabeer Hussain
+Made  by Kabeer Hussain ❤️
 
 
 
