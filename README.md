@@ -129,7 +129,7 @@ project/
 📧 **Email:** codealpha0786@gmail.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-Made  by Kabeer Hussain ❤️
+Made by Kabeer Hussain ❤️ || Mern Stack Learner
 
 
 
